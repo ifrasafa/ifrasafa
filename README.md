@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ifra_floral_wave_github_banner%20(1).png" width="100%" alt="Ifra Safa Profile Banner">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:F5F3EE,100:E7EFED&text=IFRA%20SAFA&fontSize=48&fontColor=172B4D&fontAlignY=42&desc=DREAM%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE&descSize=16&descAlignY=68&descColor=42636A&stroke=CCD8D4&strokeWidth=1" width="100%" alt="Ifra Safa - Dream Build Innovate">
 </p>
 # Ifra Safa
 
