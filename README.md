@@ -49,3 +49,23 @@ To become a skilled AI Engineer and create meaningful solutions through technolo
 ---
 
 *Learning, building, and growing one step at a time.*
+
+---
+
+## ✦ My Tech Playground
+
+*Exploring, experimenting and building one step at a time.*
+
+### 01. Programming
+`C` · `Python` · `Java`
+
+### 02. AI & Intelligence
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `TensorFlow`
+
+### 03. Building & Creating
+`HTML` · `CSS` · `JavaScript` · `React` · `FastAPI` · `Streamlit`
+
+### 04. Tools & Platforms
+`Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `Firebase`
+
+*Always curious. Always creating.*
