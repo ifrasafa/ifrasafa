@@ -52,20 +52,29 @@ To become a skilled AI Engineer and create meaningful solutions through technolo
 
 ---
 
-## ✦ My Tech Playground
+---
 
-*Exploring, experimenting and building one step at a time.*
+<h2 align="center">✦ My Tech Playground</h2>
+<p align="center">Exploring • Experimenting • Building</p>
 
-### 01. Programming
-`C` · `Python` · `Java`
+<h3 align="center">Programming</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java" />
+</p>
 
-### 02. AI & Intelligence
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `TensorFlow`
+<h3 align="center">AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-### 03. Building & Creating
-`HTML` · `CSS` · `JavaScript` · `React` · `FastAPI` · `Streamlit`
+<h3 align="center">Web Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-### 04. Tools & Platforms
-`Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `Firebase`
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
 
-*Always curious. Always creating.*
+<p align="center"><i>Always curious. Always creating.</i></p>
