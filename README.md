@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**ifrasafa/ifrasafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ifra Safa
 
-Here are some ideas to get you started:
+### Computer Science Engineering | AI & ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Ifra, a second-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at AITM, Bhatkal.
+
+I'm interested in technology, software development, and building practical solutions to real-world problems.
+
+---
+
+## About Me
+
+- Currently pursuing B.E. in CSE (AI & ML).
+- Exploring the world of Artificial Intelligence and Machine Learning.
+- Interested in software development and problem-solving.
+- Always eager to learn, experiment, and build.
+
+## Technical Interests
+
+- C Programming
+- Python
+- Java
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Data Structures and Algorithms
+
+## Projects
+
+- **Docere** – Teacher, Student and Parent Portal
+- **JobShield AI** – Fake Job Posting Detection
+- **Weather AI** – Weather-based application
+- **Object & Landmark Detection**
+- **Pet Classification**
+
+## Currently Learning
+
+- Data Structures and Algorithms
+- Java Programming
+- Operating Systems
+- Artificial Intelligence
+
+## My Goal
+
+To become a skilled AI Engineer and create meaningful solutions through technology.
+
+---
+
+*Learning, building, and growing one step at a time.*
