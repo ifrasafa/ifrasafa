@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./ifra_floral_wave_github_banner%20(1).png" width="100%" alt="Ifra Safa Profile Banner">
+</p>
 # Ifra Safa
 
 ### Computer Science Engineering | AI & ML
