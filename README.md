@@ -75,6 +75,34 @@ A computer vision project for recognizing objects and landmarks.
 
 ---
 
+
+<h2 align="center">My Tech Playground</h2>
+<p align="center">
+  Technologies and tools I use while learning, experimenting and building.
+</p>
+
+<h3 align="center">Programming</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java" />
+</p>
+
+<h3 align="center">AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<h3 align="center">Web Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+---
+
 ## GitHub Statistics
 
 <p align="center">
@@ -109,29 +137,4 @@ A computer vision project for recognizing objects and landmarks.
 
 ---
 
-<h2 align="center">My Tech Playground</h2>
-<p align="center">
-  Technologies and tools I use while learning, experimenting and building.
-</p>
 
-<h3 align="center">Programming</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java" />
-</p>
-
-<h3 align="center">AI & Machine Learning</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-<h3 align="center">Web Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
-</p>
-
----
