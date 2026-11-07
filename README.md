@@ -1,61 +1,118 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:F5F3EE,100:E7EFED&text=IFRA%20SAFA&fontSize=48&fontColor=172B4D&fontAlignY=42&desc=DREAM%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE&descSize=16&descAlignY=68&descColor=42636A&stroke=CCD8D4&strokeWidth=1" width="100%" alt="Ifra Safa - Dream Build Innovate">
 </p>
-# Ifra Safa
+<h1 align="center">Hi, I'm Ifra Safa 👋</h1>
 
-### Computer Science Engineering | AI & ML
+<h3 align="center">
+  Computer Science Engineering Student | AI & ML Enthusiast
+</h3>
 
-Hello! I'm Ifra, a second-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at AITM, Bhatkal.
-
-I'm interested in technology, software development, and building practical solutions to real-world problems.
+<p align="center">
+  Passionate about exploring technology, building practical solutions,
+  and learning how Artificial Intelligence can solve real-world problems.
+</p>
 
 ---
 
 ## About Me
 
-- Currently pursuing B.E. in CSE (AI & ML).
-- Exploring the world of Artificial Intelligence and Machine Learning.
-- Interested in software development and problem-solving.
-- Always eager to learn, experiment, and build.
+- 2nd Year Computer Science Engineering student specializing in AI & ML.
+- Interested in Machine Learning, Computer Vision and intelligent systems.
+- Enjoy building practical projects and exploring new technologies.
+- Currently strengthening my programming and problem-solving skills.
+- Aspiring to become an AI Engineer and develop meaningful solutions.
 
-## Technical Interests
+---
 
-- C Programming
-- Python
-- Java
-- Artificial Intelligence & Machine Learning
-- Web Development
+---
+
+## Technical Skills
+
+**Programming Languages**
+
+C · Python · Java
+
+**AI & Machine Learning**
+
+Machine Learning · Deep Learning · Computer Vision
+
+**Web Development**
+
+HTML · CSS · JavaScript · React
+
+**Tools & Platforms**
+
+Git · GitHub · VS Code · Jupyter Notebook · Firebase
+
+---
+
+---
+
+## Currently Exploring
+
 - Data Structures and Algorithms
-
-## Projects
-
-- **Docere** – Teacher, Student and Parent Portal
-- **JobShield AI** – Fake Job Posting Detection
-- **Weather AI** – Weather-based application
-- **Object & Landmark Detection**
-- **Pet Classification**
-
-## Currently Learning
-
-- Data Structures and Algorithms
-- Java Programming
-- Operating Systems
-- Artificial Intelligence
-
-## My Goal
-
-To become a skilled AI Engineer and create meaningful solutions through technology.
+- Java and Object-Oriented Programming
+- Linux and Operating Systems
+- Building intelligent applications
 
 ---
 
-*Learning, building, and growing one step at a time.*
+## Featured Projects
+
+### Docere
+A teacher–student–parent portal designed to simplify communication and academic updates.
+
+### JobShield AI
+An AI-based system designed to identify potentially fake job postings.
+
+### Weather AI
+A project exploring AI-powered weather information and predictions.
+
+### Object & Landmark Detection
+A computer vision project for recognizing objects and landmarks.
 
 ---
 
 ---
 
-<h2 align="center">✦ My Tech Playground</h2>
-<p align="center">Exploring • Experimenting • Building</p>
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifrasafa&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrasafa&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ifrasafa">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/ifra-safa-2992b23a0/">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:2ab25ci042@anjuman.edu.in">Email</a>
+</p>
+
+<p align="center">
+  2ab25ci042@anjuman.edu.in
+</p>
+
+<p align="center">
+  Always learning, building and growing.
+</p>
+
+---
+
+
+---
+
+<h2 align="center">My Tech Playground</h2>
+<p align="center">
+  Technologies and tools I use while learning, experimenting and building.
+</p>
 
 <h3 align="center">Programming</h3>
 <p align="center">
@@ -77,4 +134,4 @@ To become a skilled AI Engineer and create meaningful solutions through technolo
   <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
 </p>
 
-<p align="center"><i>Always curious. Always creating.</i></p>
+---
