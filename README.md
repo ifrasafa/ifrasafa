@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Ifra Safa Banner">
+  <img src="./Ai.png" width="100%" alt="GitHub Banner">
 </p>
 <h1 align="center">Hi, I'm Ifra Safa </h1>
 
